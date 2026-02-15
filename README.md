@@ -10,6 +10,13 @@ The goal is to **accelerate the design loop** for broadband high-frequency wirel
 
 ---
 
+## Poster
+- [Code-a-Chip SRP Poster (PDF)](./CaC_ISSCC26_Poster.PDF)
+
+---
+
+## What is inside
+
 ## What is inside
 
 ### Core workflow
